@@ -1,9 +1,5 @@
 ### Hi there, I am Ravi, aka [RC](https://ravi.chamarthy.dev) 👋
-[<img align="left" alt="ravi.chamarthy.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ravinag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ravinag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+<br/>
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
