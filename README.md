@@ -6,6 +6,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rchamarthy&show_icons=true&include_all_commits=true&count_private=true" alt="Ravi Chamarthy's GitHub Stats" />
 </a>
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=rchamarthy&hide_title=true&hide_border=true&langs_count=5)
 
 ### Connect with me:
 
@@ -15,11 +18,12 @@
 
 <br />
 
-### Recent Blog Posts
-<!-- BLOG-POST-LIST::START -->
-<!-- BLOG-POST-LIST::END -->
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
+
 [website]: https://ravi.chamarthy.dev
 [twitter]: https://twitter.com/ravinag
 [linkedin]: https://linkedin.com/in/ravinag
