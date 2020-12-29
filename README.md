@@ -20,6 +20,7 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Building WebBook With Hugo](https://ravi.chamarthy.dev/post/building-webbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
