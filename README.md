@@ -1,20 +1,9 @@
 ### Hi there, I am Ravi, aka [RC](https://ravi.chamarthy.dev) 👋
-<br/>
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Building WebBook With Hugo](https://ravi.chamarthy.dev/post/building-webbook/)
 <!-- BLOG-POST-LIST:END -->
-
-
-### 📊  Language Stats
-
-![wakatime]
-
-
-### Github Stats
-
-![github]
 
 ---
 
