@@ -1,6 +1,16 @@
 ### Hi there, I am Ravi, aka [RC](https://ravi.chamarthy.dev) 👋
 
-📕 **Latest Blog Posts**
+### :toolbox: My Toolbox:
+
+* __Source Control__: [Git](https://git-scm.com), [Github](https://github.com)
+* __Editors__: [Vim](https://www.vim.org), [VS Code](https://code.visualstudio.com/)
+* __Markup__: [Markdown](https://www.markdownguide.org/), [Asciidoc](https://asciidoc.org/)
+* __OS__: [Ubuntu](https://ubuntu.com)
+* __Languages__: [Go](https://golang.org), [Python3](https://www.python.org/)
+* __Project Management__: [Github Projects](https://github.com/features/project-management)
+
+
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building WebBook With Hugo](https://ravi.chamarthy.dev/post/building-webbook/)
 <!-- BLOG-POST-LIST:END -->
