@@ -12,7 +12,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building WebBook With Hugo](https://ravi.chamarthy.dev/post/building-webbook/)
+- [Blog with Hugo and Github](https://ravi.chamarthy.dev/post/2020-12/building-webbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
